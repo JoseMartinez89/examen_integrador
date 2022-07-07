@@ -1,3 +1,3 @@
 # examen_integrador
 
-Juan Pablo Bedoya
+Juan Pablo
